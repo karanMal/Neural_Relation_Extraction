@@ -4,7 +4,7 @@ In this project, we have analysed two of the most prominent neural models, PCNN 
 
 #
 How to Run the Code Files::
-Extract the vec.txt.tar.gz and copy the vec.txt(extracted file obtained ) in the directory where all codes are present.
+Extract the vec.txt.tar.gz and copy the vec.txt(extracted file obtained ) in the directory where all codes are present.Now any model's .py file can be run independently.
 #
 PCNN.py is the implementation of the piecewise CNN model which will  output the F1-score on test data with epochs while training.
 BiGRU_with_attention.py is the implementation of Bidirectional gated Recurrent unit with word level attention based relation classification.It will also output the F1-Score on test data with epochs.
